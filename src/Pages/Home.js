@@ -4,7 +4,7 @@ import {
   StyleSheet, 
   SafeAreaView, 
   TextInput,
-  FlatList
+  FlatList,
 } from 'react-native';
 
 import { Button } from '../components/Button';
