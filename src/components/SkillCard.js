@@ -7,7 +7,7 @@ import {
 
 export function SkillCard({ skill }) {
   return (
-    <TouchableOpacity key={skill} style={[styles.buttonSkill, {marginTop: 20}]}>      
+    <TouchableOpacity style={[styles.buttonSkill, {marginTop: 20}]}>      
       <Text style={styles.textSkill}>
         {skill}
       </Text>
