@@ -42,7 +42,6 @@ export function Home(){
         mySkills.map(skill => (
           <SkillCard skill={skill}/>
         ))
-
       }
     </SafeAreaView>
   )
